@@ -1,0 +1,7 @@
+# co,librecores.org
+
+LibreCores CI as a SaaS service, powered by Jenkins.
+See https://ci.librecores.org/ .
+
+NOTE: This repository is work-in-progress. 
+The original documentation can be found link:https://github.com/librecores/librecores-ci-jenkins-server[here]
