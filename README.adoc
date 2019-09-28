@@ -1,4 +1,4 @@
-# co,librecores.org
+# ci.librecores.org
 
 LibreCores CI as a SaaS service, powered by Jenkins.
 See https://ci.librecores.org/ .
